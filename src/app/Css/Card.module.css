@@ -1,0 +1,43 @@
+
+
+.reactions{
+    padding: 5% 0;
+display: flex;
+justify-content: space-around;
+}
+.profile{
+border-radius: 50%;
+border: 2px solid red;
+}
+.channelName{
+    font: 500;
+}
+
+.channel{
+    display: flex;
+    justify-content:space-between;
+    margin: 0 10% ;
+}
+
+.title{
+    font-weight: 600;
+    margin-left: 10%;
+}
+
+.thumbnail{
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.thumbnail img{
+    width: 100%;
+    height:300px;
+}
+
+.youTubrCard{
+    width: 30%;
+    border: 1px solid black;
+    border-radius: 0 0 10px 10px;
+    box-shadow: 6px 8px #888888;
+    margin-bottom: 20px;
+}
